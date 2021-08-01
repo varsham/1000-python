@@ -1,0 +1,13 @@
+attributes
+num_deaths
+average_number_of_physically_unhealthy_days
+average_number_of_mentally_unhealthy_days
+percent_smokers
+percent_adults_with_obesity
+food_environment_index
+percent_physically_inactive
+percent_excessive_drinking
+percent_frequent_physical_distress
+percent_frequent_mental_distress
+percent_adults_with_diabetes
+num_hiv_cases

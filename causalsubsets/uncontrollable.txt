@@ -1,0 +1,15 @@
+attributes
+num_deaths
+percent_fair_or_poor_health
+percent_low_birthweight
+percent_children_in_poverty
+num_households
+percent_single_parent_households
+age_adjusted_death_rate
+child_mortality_rate
+infant_mortality_rate
+percent_disconnected_youth
+percent_less_than_18_years_of_age
+percent_65_and_over
+percent_female
+percent_rural

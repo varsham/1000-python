@@ -1,0 +1,15 @@
+attributes
+num_deaths
+years_of_potential_life_lost_rate
+num_alcohol_impaired_driving_deaths
+num_driving_deaths
+percent_driving_deaths_with_alcohol_involvement
+annual_average_violent_crimes
+violent_crime_rate
+injury_death_rate
+life_expectancy
+drug_overdose_mortality_rate
+motor_vehicle_mortality_rate
+homicide_rate
+suicide_rate_age_adjusted
+firearm_fatalities_rate
